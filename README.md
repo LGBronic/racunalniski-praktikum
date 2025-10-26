@@ -9,6 +9,9 @@
 - _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
 - _Izreži_ označeno v odložišče: Ctrl+X
 - _Prilepi_ vsebino odložišča: Ctrl+V
+- _Nova mapa: Ctrl+Shift+N
+- _Brisanje cele besede: Ctrl+Backspace
+- _premakni vrstico navzgor: Alt+Gor
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
@@ -25,9 +28,9 @@ Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
      da spremenite [ ] v [x]. -->
-- [ ] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
+- [x] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
       Dodajte jih v prvi razdelek tega dokumenta.
-- [ ] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
+- [x] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
