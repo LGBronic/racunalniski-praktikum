@@ -9,9 +9,9 @@
 - _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
 - _Izreži_ označeno v odložišče: Ctrl+X
 - _Prilepi_ vsebino odložišča: Ctrl+V
-- _Nova mapa: Ctrl+Shift+N
-- _Brisanje cele besede: Ctrl+Backspace
-- _premakni vrstico navzgor: Alt+Gor
+- Nova mapa: Ctrl+Shift+N
+- Brisanje cele besede: Ctrl+Backspace
+- premakni vrstico navzgor: Alt+Gor
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
