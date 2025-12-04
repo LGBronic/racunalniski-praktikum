@@ -1,1 +1,1 @@
-https://github.com/LGBronic/racunalniski-praktikum/new/main?filename=README.md
+https://github.com/LGBronic/racunalniski-praktikum/blob/main/03-html/stran.html
